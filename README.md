@@ -9,6 +9,7 @@ A personalized web app starter.
 &nbsp; &nbsp; ✓ Styling - [Sass](http://sass-lang.com/)<br>
 &nbsp; &nbsp; ✓ Task Runner - [Gulp](http://gulpjs.com/)<br>
 &nbsp; &nbsp; ✓ Bundling - [Browserify](http://browserify.org/)<br>
+&nbsp; &nbsp; ✓ Testing - [Jest](https://facebook.github.io/jest/)<br>
 
 ## Getting Started
 
@@ -37,6 +38,9 @@ npm install
 │   │   └── main.js       # JavaScript entry point
 │   ├── main.scss         # Sass styles
 │   └── index.html        # HTML entry point
+├── test/                 # Test folder
+│   └── js/               # JavaScript test folder
+│   │   └── file.test.js  # JavaScript test files
 ├── gulpfile.js           # Gulpfile entry point
 └──...                    # Configuration files
 ```
@@ -54,6 +58,8 @@ npm install
   [link](https://gist.github.com/shovon/c876f9760c6bc74c96b4)
   - Gulp Plumber:
   [link](https://scotch.io/tutorials/prevent-errors-from-crashing-gulp-watch)
+- Jest documentation:
+[link](https://facebook.github.io/jest/docs/en/getting-started.html)
 
 ## License
 
