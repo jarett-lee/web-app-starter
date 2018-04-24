@@ -13,20 +13,23 @@ A personalized web app starter.
 
 ## Getting Started
 
+1. Remove the git folder
+  - Linux: `rm -rf .git`
+  - Windows: `rd /s /q .git`
 1. Edit package.json
-  - Specifically, change the following entries:
-    - name
-    - description
-    - repository
-    - author
-    - license
-    - bugs
-    - homepage
-- Update package-lock.json and install the dependencies
+  - name
+  - description
+  - repository
+  - author
+  - license
+  - bugs
+  - homepage
+1. Update package-lock.json and install the dependencies
 ```
 rm package-lock.json
 npm install
 ```
+1. Initialize new source control
 
 ## Application Structure
 
