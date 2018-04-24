@@ -41,7 +41,7 @@ npm install
 ├── test/                 # Test folder
 │   └── js/               # JavaScript test folder
 │   │   └── file.test.js  # JavaScript test files
-├── gulpfile.js           # Gulpfile entry point
+├── gulpfile.js           # Gulp entry point
 └──...                    # Configuration files
 ```
 
