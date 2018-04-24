@@ -29,6 +29,7 @@ A personalized web app starter.
 rm package-lock.json
 npm install
 ```
+1. Edit the README.md
 1. Initialize new source control
 
 ## Application Structure
