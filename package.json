@@ -20,7 +20,6 @@
   "homepage": "https://github.com/jarett-lee/web-app-starter#readme",
   "dependencies": {},
   "devDependencies": {
-    "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-jest": "^22.4.3",
     "babel-preset-env": "^1.6.1",
