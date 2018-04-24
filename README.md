@@ -66,4 +66,4 @@ npm install
 
 ## License
 
-The MIT License © Jarett Lee
+The MIT License © 2018 Jarett Lee

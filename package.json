@@ -1,7 +1,7 @@
 {
   "name": "web-app-starter",
   "version": "0.0.0",
-  "description": "A initial project to kick-start web app projects.",
+  "description": "A personalized web app starter",
   "main": "index.js",
   "scripts": {
     "test": "jest",
