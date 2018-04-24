@@ -13,7 +13,7 @@
     "url": "git+https://github.com/jarett-lee/web-app-starter.git"
   },
   "author": "Jarett Lee",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jarett-lee/web-app-starter/issues"
   },
